@@ -42,9 +42,9 @@ sudo yum install libxml2-devel.x86_64
 --with-pdo-mysql \
 --enable-zip \
 --enable-sockets
-
-
+```
+7.安装nginx
+```bash
 sudo make
 sudo make install
-
 ```
