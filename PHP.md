@@ -42,4 +42,9 @@ sudo yum install libxml2-devel.x86_64
 --with-pdo-mysql \
 --enable-zip \
 --enable-sockets
+
+
+sudo make
+sudo make install
+
 ```
